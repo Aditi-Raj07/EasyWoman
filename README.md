@@ -1,4 +1,4 @@
-# 🌸 EasyWoman – Location-Based Online Boutique
+ 🌸 EasyWoman – Location-Based Online Boutique
 
 EasyWoman is a location-based online boutique platform designed to connect users with nearby fashion boutiques within a defined area range. The platform allows customers to explore and shop women’s clothing and accessories available locally, ensuring faster delivery and a personalized shopping experience.
 
@@ -6,7 +6,7 @@ By focusing on local availability, EasyWoman supports boutique owners while prov
 
 ---
 
-## ✨ Features
+✨ Features
 
 - 📍 Location-based boutique discovery  
 - 👗 Browse women’s fashion and accessories  
@@ -16,9 +16,9 @@ By focusing on local availability, EasyWoman supports boutique owners while prov
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### 🌐 Frontend
+🌐 Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
@@ -28,8 +28,7 @@ By focusing on local availability, EasyWoman supports boutique owners while prov
 - **Tailwind CSS**
 
 ---
-
-### ⚙️ Backend
+ ⚙️ Backend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
 </p>
@@ -39,7 +38,7 @@ By focusing on local availability, EasyWoman supports boutique owners while prov
 
 ---
 
-### 🗄️ Database
+ 🗄️ Database
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </p>
@@ -48,7 +47,7 @@ By focusing on local availability, EasyWoman supports boutique owners while prov
 
 ---
 
-### 📩 Services
+ 📩 Services
 <p>
   <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" width="40" height="40" />
 </p>
@@ -57,7 +56,7 @@ By focusing on local availability, EasyWoman supports boutique owners while prov
 
 ---
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 1. Clone the repository  
    ```bash
