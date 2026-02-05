@@ -56,9 +56,5 @@ By focusing on local availability, EasyWoman supports boutique owners while prov
 
 ---
 
-🚀 Getting Started
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/easywoman.git
 
